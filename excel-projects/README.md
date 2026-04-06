@@ -9,4 +9,3 @@ This folder contains Excel-based analysis and reporting projects completed as pa
 - Data cleaning and organization
 - dashboard and report design
 
-Each project includes a short description of the business problem, tools used, and key takeaways.
